@@ -1,0 +1,26 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "exo typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "compile":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quentingit/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quentingit/typescript/issues"
+  },
+  "homepage": "https://github.com/quentingit/typescript#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "jest": "^24.5.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.4000"
+  }
+}
